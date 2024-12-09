@@ -8,7 +8,9 @@ Demo map 2 (high BPM): https://osu.ppy.sh/beatmapsets/1290026
 
 ## Colaboratory
 
-https://colab.research.google.com/github/kotritrona/osumapper/blob/master/v7.0/Colab.ipynb
+Original version: https://colab.research.google.com/github/kotritrona/osumapper/blob/master/v7.0/Colab.ipynb
+
+Sknc version: https://github.com/sknctk/osumapper/blob/dev/sknc/Colab_Training.ipynb
 
 For mania mode: [mania_Colab.ipynb](https://colab.research.google.com/github/kotritrona/osumapper/blob/master/v7.0/mania_Colab.ipynb)
 
